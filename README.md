@@ -10,7 +10,7 @@ Any Pull Request is appreciated! Collaborating is as easy as editing a JSON; [Gi
 * [Add a CTF resource](https://github.com/jorgectf/Security-Resources/edit/main/data/ctf/resources/EDIT_ME.json)
 * [Add a Research article](https://github.com/jorgectf/Security-Resources/edit/main/data/research/articles/EDIT_ME.json)
 
-Once edited, choose `Create a new branch for this commit and start a pull request` and a contributor will review and accept your addition.
+Once edited, choose `Create a new branch for this commit and start a pull request` and a contributor will review and accept your addition. ([Sample PR](https://github.com/jorgectf/Security-Resources/pull/2) that triggers [this generation action](https://github.com/jorgectf/Security-Resources/runs/5413919764)).
 
 ## Real-time reading
 
