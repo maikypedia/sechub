@@ -1,11 +1,11 @@
 {
-    "name": "Dependency Confusion",
-    "url": "https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610",
+    "name": "A tale of making internet pollution free",
+    "url": "https://blog.s1r1us.ninja/research/PP",
     "description": "The Story of a Novel Supply Chain Attack",
     "categories": {
         "Web": [
-            "Supply Chain Attack"
+            "Client-Side Prototype Pollution"
         ]
     },
-    "published_at": "2021/04/09"
+    "published_at": "2021/09/28"
 }
