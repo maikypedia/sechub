@@ -1,0 +1,8 @@
+{% for article in articles %}
+[{{ article["name"] }}]({{ article["url"] }})
+{% for category in article["categories"].keys() %}
+* {{ category }}: {{ ", ".join(article["categories"][category]) }}
+{% endfor %}
+
+{{ article["description"] }}
+{% endfor %}

@@ -1,0 +1,12 @@
+{
+    "name": "Nim Notes by @maple3142",
+    "url": "https://github.com/maple3142/My-CTF-Challenges/tree/master/TSJ%20CTF%202022/Nim%20Notes",
+    "description": "A XSLeak abusing reCAPTCHA v2",
+    "categories": {
+        "Web": [
+            "Cross-Site Leak (XSLeak)",
+            "Cross-Site Scripting (XSS)"
+        ]
+    },
+    "published_at": "2022/02/28"
+}
