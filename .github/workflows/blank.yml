@@ -20,7 +20,7 @@ jobs:
           python-version: 3.9
 
       - name: Generate content
-        run: rm -r gitbook/; pip3 install -r organizer/requirements.txt && python3 organizer/gen.py
+        run: rm -rf gitbook/; pip3 install -r organizer/requirements.txt && python3 organizer/gen.py
 
       - name: Commit files
         run: |
