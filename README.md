@@ -20,12 +20,4 @@ The contents of this repository are real-time updated and available on [GitBook]
 
 If you have any idea about a different/additional structure, setup or hosting platform, feel free to [open an Issue](https://github.com/maikypedia/sechub/issues/new) and we will work to make this content as wide as possible.
 
-## Obsidian Setup
-
-* Clone this repository
-* Open Obsidian
-* Click `Open Folder as Vault` and choose the cloned repository
-* Go to `Settings` > `Community Plugins` and disable `Safe Mode`
-* Go to `Community Plugins` > `Browse`
-* Search `Obsidian Git`, install and enable it
-* By now, everytime Obsidian is opened, the repository is updated. Change `Options` > `Auto pull interval` to update the repository every X minutes
+With ❤️ from the community, for the community.
