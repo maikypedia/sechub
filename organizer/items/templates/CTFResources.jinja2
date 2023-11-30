@@ -1,6 +1,5 @@
 {% for resource in resources %}
-[{{ resource["name"] }}]({{ resource["url"] }})
-* {{ ", ".join(resource["categories"]) }}
-
+### [{{ resource["name"] }}]({{ resource["url"] }})
+    * {{ ", ".join(resource["categories"]) }}
 {{ resource["description"] }}
 {% endfor %}

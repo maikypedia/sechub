@@ -1,8 +1,7 @@
 {% for challenge in challenges %}
-[{{ challenge["name"] }}]({{ challenge["url"] }})
+### [{{ challenge["name"] }}]({{ challenge["url"] }})
 {% for category in challenge["categories"].keys() %}
-* {{ category }}: {{ ", ".join(challenge["categories"][category]) }}
+    * {{ category }}: {{ ", ".join(challenge["categories"][category]) }}
 {% endfor %}
-
-{{ challenge["description"] }}
+> {{ challenge["description"] }}
 {% endfor %}
