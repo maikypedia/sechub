@@ -1,7 +1,7 @@
 name: Check links point to web.archive.org
 
 on:
-  pull_request_target:
+  pull_request:
     types: 
       - opened
       - synchronize
